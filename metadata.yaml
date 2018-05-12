@@ -1,0 +1,35 @@
+_repo: The-Lady-of-the-Mount_36083
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ralph, Lester
+    gutenberg_agent_id: '4488'
+    url: http://www.gutenberg.org/2009/agents/4488
+covers:
+- cover_type: archival
+  image_path: 36083-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Isham, Frederic Stewart
+    aliases:
+    - Isham, Frederic S. (Frederic Stewart)
+    - Isham, Frederick S. (Frederick Stewart)
+    - Isham, F. S. (Frederic Stewart)
+    birthdate: 1866
+    deathdate: 1922
+    gutenberg_agent_id: '3515'
+    url: http://www.gutenberg.org/2009/agents/3515
+description: ''
+gutenberg_issued: '2011-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'France -- History -- Louis XVI, 1774-1793 -- Fiction'
+title: The Lady of the Mount
+url: http://www.gutenberg.org/ebooks/36083
